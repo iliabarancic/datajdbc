@@ -1,7 +1,8 @@
 package de.ilia.datajdbc.model
 
 enum class JediRankType {
-    MASTER,
+    PADAWAN,
     KNIGHT,
-    PADAWAN
+    MASTER,
+    GRAND_MASTER
 }
